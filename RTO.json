@@ -1,0 +1,232 @@
+{
+ "code": "M463L",
+ "connector": "RTO-144",
+ "type": "M463L - Submaster Module",
+ "series": null,
+ "contacts": "7 contacts (P1), 22 contacts (P2)",
+ "verified": null,
+ "derived": false,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "1",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - Submaster Module (2).pdf",
+   "page": 43
+  },
+  {
+   "pin": "2",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - Submaster Module (2).pdf",
+   "page": 43
+  },
+  {
+   "pin": "4",
+   "signal": "OUTPUTS",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463L/SCHEMATICS/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
+   "page": 1
+  },
+  {
+   "pin": "6",
+   "signal": "OUTPUTS",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463L/SCHEMATICS/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
+   "page": 1
+  },
+  {
+   "pin": "7",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463L/SCHEMATICS/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
+   "page": 1
+  },
+  {
+   "pin": "8",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - P042 - LB463-02-011 004.jpg",
+   "page": 1
+  },
+  {
+   "pin": "12",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463L/SCHEMATICS/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
+   "page": 1
+  },
+  {
+   "pin": "18",
+   "signal": "CTL COM",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463L/SCHEMATICS/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
+   "page": 1
+  },
+  {
+   "pin": "19",
+   "signal": "-25V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - Submaster Module.pdf",
+   "page": 43
+  },
+  {
+   "pin": "20",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - P042 - LB463-02-011 001.jpg",
+   "page": 1
+  },
+  {
+   "pin": "21",
+   "signal": "+25V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - Submaster Module.pdf",
+   "page": 43
+  },
+  {
+   "pin": "22",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - P042 - LB463-02-011 001.jpg",
+   "page": 1
+  },
+  {
+   "pin": "C",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463L/SCHEMATICS/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
+   "page": 1
+  },
+  {
+   "pin": "D",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463L/SCHEMATICS/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
+   "page": 1
+  },
+  {
+   "pin": "F",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463L/SCHEMATICS/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
+   "page": 1
+  },
+  {
+   "pin": "N",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463L/SCHEMATICS/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
+   "page": 1
+  },
+  {
+   "pin": "T",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463L/SCHEMATICS/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
+   "page": 1
+  },
+  {
+   "pin": "V",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463L/SCHEMATICS/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
+   "page": 1
+  },
+  {
+   "pin": "Y",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - P042 - LB463-02-011 003.jpg",
+   "page": 1
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Engineering/RTO-144/M463L/M463L.rto144.json",
+  "Modules/SUMMING/M463L/MANUALS/1974 - M463L - P042 - LB463-02-011 001.jpg",
+  "Modules/SUMMING/M463L/MANUALS/1974 - M463L - P042 - LB463-02-011 003.jpg",
+  "Modules/SUMMING/M463L/MANUALS/1974 - M463L - P042 - LB463-02-011 004.jpg",
+  "Modules/SUMMING/M463L/MANUALS/1974 - M463L - Submaster Module (2).pdf",
+  "Modules/SUMMING/M463L/MANUALS/1974 - M463L - Submaster Module.pdf",
+  "Modules/SUMMING/M463L/SCHEMATICS/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg"
+ ]
+}
