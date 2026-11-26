@@ -1,0 +1,52 @@
+{
+ "drawing": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - Submaster Module (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/25d204341b798ca1-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "67"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [2.2, 4.5, 310.5, 422.5],
+ "outlines": {
+  "line": {"rings": 110, "straight": {"n": 1846, "mm": 4099.9}, "curved": {"n": 244, "mm": 399.0}},
+  "text": {"rings": 167, "straight": {"n": 1186, "mm": 1520.3}, "curved": {"n": 228, "mm": 371.2}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [274.8, 407.2, 279.2, 410.6], "w": 4.3, "h": 3.5, "from": "ring"}],
+ "text": {
+  "words": 23,
+  "lines": [
+   {"mm": [45.3, 392.5, 280.5, 410.4], "text": "[VVElS] _'~\"_\"\"\"\"'~CNT\"\"\"'Cl ,\":JliH !55Q"},
+   {"mm": [120.7, 403.7, 282.2, 411.2], "text": "WAR -SECK YSTE MS LTD"},
+   {"mm": [120.7, 392.7, 136.0, 396.8], "text": "TU.E><"},
+   {"mm": [140.8, 392.5, 153.1, 396.8], "text": "oea·"},
+   {"mm": [208.3, 392.5, 239.0, 396.8], "text": "T'ElL~"},
+   {"mm": [248.5, 392.5, 253.5, 397.1], "text": "eu"},
+   {"mm": [141.2, 242.2, 195.2, 252.3], "text": "M463L"},
+   {"mm": [128.5, 230.8, 211.2, 237.3], "text": "SUBMA STER MO DU LE"},
+   {"mm": [278.7, 65.0, 299.7, 74.1], "text": "ps"},
+   {"mm": [267.1, 53.5, 288.9, 65.1], "text": "BS"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.5, 24.0, 258.4, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 2–310 mm across, 4–422 mm up",
+  "- **Outlines:** line 110 rings, 1,846 straight (4,100 mm) / 244 curved (399 mm); text 167 rings, 1,186 straight (1,520 mm) / 228 curved (371 mm)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 23 in 12 lines: [VVElS] _'~\"_\"\"\"\"'~CNT\"\"\"'Cl ,\":JliH !55Q · WAR -SECK YSTE MS LTD · TU.E>< · oea· · T'ElL~ · eu · M463L · SUBMA STER MO DU LE · ps · BS · tp · ht"
+ ]
+}

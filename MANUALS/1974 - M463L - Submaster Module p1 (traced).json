@@ -1,0 +1,53 @@
+{
+ "drawing": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - Submaster Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/0f3bebfb79a50103-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "67"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [2.2, 4.5, 306.6, 422.5],
+ "outlines": {
+  "line": {"rings": 31, "straight": {"n": 804, "mm": 2617.3}, "curved": {"n": 68, "mm": 107.9}},
+  "text": {"rings": 135, "straight": {"n": 1549, "mm": 2082.7}, "curved": {"n": 332, "mm": 549.1}},
+  "tb": {"rings": 2, "straight": {"n": 114, "mm": 294.4}, "curved": {"n": 5, "mm": 11.1}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 9,
+  "lines": [
+   {"mm": [119.0, 403.7, 195.6, 413.3], "text": "WARD-BECK"},
+   {"mm": [198.2, 403.9, 283.0, 413.8], "text": "SYSTEMS LTD_"},
+   {"mm": [49.7, 394.0, 280.5, 408.7], "text": "WBS 841 PAOGRESS AVENUE; SCARBOROUGH, ONTARIO M1h2x4"},
+   {"mm": [205.5, 392.7, 280.5, 399.7], "text": "TELEPHONE: 416/438-6550"},
+   {"mm": [118.5, 392.7, 170.8, 398.0], "text": "TeLex: 065-25399"},
+   {"mm": [140.3, 242.2, 195.8, 255.2], "text": "M463L"},
+   {"mm": [127.4, 230.6, 211.6, 239.2], "text": "SUBMASTER MODULE"}
+  ]
+ },
+ "title_block": {
+  "mm": [42.9, 385.4, 263.2, 422.3],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK", "SYSTEMS LTD_", "WBS 841 PAOGRESS AVENUE; SCARBOROUGH, ONTARIO M1h2x4", "TELEPHONE: 416/438-6550", "TeLex: 065-25399"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 2–307 mm across, 4–422 mm up",
+  "- **Outlines:** line 31 rings, 804 straight (2,617 mm) / 68 curved (108 mm); text 135 rings, 1,549 straight (2,083 mm) / 332 curved (549 mm); tb 2 rings, 114 straight (294 mm) / 5 curved (11.1 mm)",
+  "- **Words (OCR):** 9 in 7 lines: WARD-BECK · SYSTEMS LTD_ · WBS 841 PAOGRESS AVENUE; SCARBOROUGH, ONTARIO M1h2x4 · TELEPHONE: 416/438-6550 · TeLex: 065-25399 · M463L · SUBMASTER MODULE",
+  "- **Title block:** (43, 385)–(263, 422) mm: WARD-BECK · SYSTEMS LTD_ · WBS 841 PAOGRESS AVENUE; SCARBOROUGH, ONTARIO M1h2x4 · TELEPHONE: 416/438-6550 · TeLex: 065-25399"
+ ]
+}

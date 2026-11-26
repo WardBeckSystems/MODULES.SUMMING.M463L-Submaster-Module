@@ -1,0 +1,80 @@
+{
+ "drawing": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - Submaster Module (2).pdf",
+ "page": 41,
+ "version": 1,
+ "trace": "_traces/25d204341b798ca1-p41.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "41", "pages": "67"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, -0.1, 335.3, 431.8],
+ "outlines": {
+  "line": {"rings": 319, "straight": {"n": 4039, "mm": 8121.9}, "curved": {"n": 709, "mm": 1061.6}},
+  "text": {"rings": 31, "straight": {"n": 205, "mm": 220.9}, "curved": {"n": 77, "mm": 115.9}}
+ },
+ "circles": [
+  {"c": [162.4, 320.5], "r": 4.5, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6},
+  {"c": [240.6, 80.1], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [314.4, 306.6], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [305.2, 293.0], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [130.8, 340.9, 155.0, 356.7], "w": 24.2, "h": 15.8, "from": "ring"},
+  {"mm": [250.7, 76.2, 267.3, 83.3], "w": 16.6, "h": 7.1, "from": "ring", "words": ["eKO."]},
+  {"mm": [232.7, 76.2, 249.6, 83.1], "w": 16.8, "h": 6.9, "from": "ring", "words": ["MOO"]},
+  {"mm": [232.7, 66.3, 249.8, 75.2], "w": 17.1, "h": 8.9, "from": "ring"},
+  {"mm": [250.7, 66.5, 267.3, 75.1], "w": 16.6, "h": 8.6, "from": "ring"},
+  {"mm": [218.9, 66.3, 231.9, 74.9], "w": 13.0, "h": 8.6, "from": "ring"},
+  {"mm": [268.8, 57.0, 330.3, 66.1], "w": 61.5, "h": 9.1, "from": "ring", "words": ["ps"]},
+  {"mm": [232.7, 56.8, 249.8, 65.6], "w": 17.1, "h": 8.9, "from": "ring"},
+  {"mm": [250.7, 57.0, 267.3, 65.6], "w": 16.6, "h": 8.6, "from": "ring"},
+  {"mm": [219.1, 56.8, 231.9, 65.4], "w": 12.7, "h": 8.6, "from": "ring"},
+  {"mm": [250.7, 47.5, 267.5, 56.3], "w": 16.8, "h": 8.9, "from": "ring"},
+  {"mm": [219.1, 47.3, 231.9, 56.1], "w": 12.7, "h": 8.9, "from": "ring"},
+  {"mm": [233.0, 47.5, 249.8, 56.1], "w": 16.8, "h": 8.6, "from": "ring"},
+  {"mm": [268.7, 38.0, 330.3, 47.3], "w": 61.6, "h": 9.3, "from": "ring"},
+  {"mm": [250.9, 37.8, 267.6, 46.9], "w": 16.7, "h": 9.1, "from": "ring"},
+  {"mm": [233.0, 37.8, 249.8, 46.6], "w": 16.8, "h": 8.9, "from": "ring"},
+  {"mm": [219.1, 37.6, 232.3, 46.4], "w": 13.1, "h": 8.9, "from": "ring"},
+  {"mm": [269.0, 28.7, 330.3, 37.4], "w": 61.3, "h": 8.6, "from": "ring"},
+  {"mm": [233.0, 28.5, 250.0, 36.9], "w": 17.1, "h": 8.4, "from": "ring"},
+  {"mm": [219.4, 28.5, 232.1, 36.7], "w": 12.7, "h": 8.2, "from": "ring"},
+  {"mm": [269.0, 19.2, 330.1, 28.3], "w": 61.1, "h": 9.1, "from": "ring"},
+  {"mm": [233.2, 18.8, 250.0, 27.9], "w": 16.8, "h": 9.1, "from": "ring"},
+  {"mm": [219.4, 18.6, 232.1, 27.6], "w": 12.7, "h": 9.0, "from": "ring"},
+  {"mm": [250.9, 7.8, 330.1, 18.6], "w": 79.2, "h": 10.8, "from": "ring"},
+  {"mm": [233.2, 7.8, 250.1, 18.1], "w": 16.9, "h": 10.4, "from": "ring"},
+  {"mm": [219.4, 7.8, 232.1, 18.0], "w": 12.7, "h": 10.2, "from": "ring"}
+ ],
+ "text": {
+  "words": 13,
+  "lines": [
+   {"mm": [219.8, 76.4, 266.6, 81.7], "text": "ISS. MOO eKO."},
+   {"mm": [285.4, 76.9, 313.9, 82.1], "text": "US ED ON"},
+   {"mm": [284.6, 59.2, 305.5, 68.3], "text": "ps"},
+   {"mm": [273.1, 47.5, 294.9, 59.0], "text": "BS"},
+   {"mm": [250.7, 25.3, 269.2, 32.5], "text": "tp"},
+   {"mm": [243.5, 17.9, 264.5, 25.1], "text": "ht"},
+   {"mm": [6.0, -0.4, 46.0, 3.6], "text": ":t.8AN.Tax II UO-J"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–335 mm across, 0–432 mm up",
+  "- **Outlines:** line 319 rings, 4,039 straight (8,122 mm) / 709 curved (1,062 mm); text 31 rings, 205 straight (221 mm) / 77 curved (116 mm)",
+  "- **Circles and arcs:** 4 circles, 0 arcs; largest r 4.5 @ (162.4, 320.5), r 2.3 @ (240.6, 80.1), r 2.1 @ (314.4, 306.6), r 2.1 @ (305.2, 293.0)",
+  "- **Closed boxes:** 26; named: eKO.; MOO; ps",
+  "- **Words (OCR):** 13 in 7 lines: ISS. MOO eKO. · US ED ON · ps · BS · tp · ht · :t.8AN.Tax II UO-J"
+ ]
+}
