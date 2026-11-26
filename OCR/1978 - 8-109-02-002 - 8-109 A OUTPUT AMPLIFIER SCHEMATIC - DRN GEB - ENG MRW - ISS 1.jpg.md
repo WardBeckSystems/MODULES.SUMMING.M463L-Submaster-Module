@@ -36,7 +36,7 @@ Wiki page: [M463L](../../../../PAGES/M463L.md)
 - **Title block:** (226, 0)–(336, 59) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK ByBteMB · DrN: Geb · 8 - 109 · ENG MRW 4178 · Output AMPLIFIER · APR · SCHEMATIC · SCALE · ISSUE · 8-109-02-002
 - **Wiring (first pass):** 30 connected wire groups from 197 runs; labelled ends: 197 mm → 4k7, E7; 192 mm → E3, Ris, 2n2102; 148 mm → R37, 4K7, cig, 22o/10; 133 mm → Cis, 22o/10, E4, R3c; 107 mm → R34, MV, 5-6, Cis
 
-Every curve, box, word and wire group: [1978 - 8-109-02-002 - 8-109 A OUTPUT AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1 (traced).json](../SCHEMATICS/1978%20-%208-109-02-002%20-%208-109%20A%20OUTPUT%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20GEB%20-%20ENG%20MRW%20-%20ISS%201%20(traced).json) (the CAD file: `1978 - 8-109-02-002 - 8-109 A OUTPUT AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - 8-109-02-002 - 8-109 A OUTPUT AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1 (traced).json](../SCHEMATICS/1978%20-%208-109-02-002%20-%208-109%20A%20OUTPUT%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20GEB%20-%20ENG%20MRW%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1978 - 8-109-02-002 - 8-109 A OUTPUT AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1 (traced).dxf`).
 
 ## Full text
 

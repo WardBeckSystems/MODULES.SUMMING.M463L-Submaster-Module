@@ -19,7 +19,7 @@ Wiki page: [M463L](../../../../PAGES/M463L.md)
 - **Closed boxes:** 23; named: B | 2; 2 /22; Iss MOD  CKD
 - **Words (OCR):** 98 in 50 lines: P1 · SUMM NG NPUT · SUMM NG INPUT · NC · B | 2 SHIELD · PA C 3 · PA · RS2 · RS2 · RS 1 · RS 1 · FBL F : 6 FB4
 
-Every curve, box, word and wire group: [1974 - M463L - 463-04-024 - OUTPUT AMP UPPER LEGEND (traced).json](../MECHANICAL/1974%20-%20M463L%20-%20463-04-024%20-%20OUTPUT%20AMP%20UPPER%20LEGEND%20(traced).json) (the CAD file: `1974 - M463L - 463-04-024 - OUTPUT AMP UPPER LEGEND (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463L - 463-04-024 - OUTPUT AMP UPPER LEGEND (traced).json](../MECHANICAL/1974%20-%20M463L%20-%20463-04-024%20-%20OUTPUT%20AMP%20UPPER%20LEGEND%20%28traced%29.json) (the CAD file: `1974 - M463L - 463-04-024 - OUTPUT AMP UPPER LEGEND (traced).dxf`).
 
 ## Full text
 

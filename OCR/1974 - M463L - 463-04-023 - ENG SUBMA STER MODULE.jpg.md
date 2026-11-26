@@ -21,7 +21,7 @@ Wiki page: [M463L](../../../../PAGES/M463L.md)
 - **Words (OCR):** 33 in 29 lines: WBS · M4631 · 18 · PRE · RS--PA · RS · PRI · PRE · 3/4-6-1/2 · PRE · 24 · 25
 - **Title block:** (147, 0)–(332, 415) mm: WBS · M4631 · 18 · PRE · RS--PA · RS · PRI · PRE · 3/4-6-1/2 · PRE · 24 · 25 · MF · 26 · IO0 180 220 · 260 · 300 · 400 · PAN · SSUF Date · WBS WARD-BecCk SYSTEMs · DRN · M4631 · SUBMA STER MODULE · CR
 
-Every curve, box, word and wire group: [1974 - M463L - 463-04-023 - ENG SUBMA STER MODULE (traced).json](../MECHANICAL/1974%20-%20M463L%20-%20463-04-023%20-%20ENG%20SUBMA%20STER%20MODULE%20(traced).json) (the CAD file: `1974 - M463L - 463-04-023 - ENG SUBMA STER MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463L - 463-04-023 - ENG SUBMA STER MODULE (traced).json](../MECHANICAL/1974%20-%20M463L%20-%20463-04-023%20-%20ENG%20SUBMA%20STER%20MODULE%20%28traced%29.json) (the CAD file: `1974 - M463L - 463-04-023 - ENG SUBMA STER MODULE (traced).dxf`).
 
 ## Full text
 

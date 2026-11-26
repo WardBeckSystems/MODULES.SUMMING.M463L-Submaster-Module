@@ -20,7 +20,7 @@ Wiki page: [M463L](../../../../PAGES/M463L.md)
 - **Words (OCR):** 107 in 57 lines: P2 · IC A| 1 IC · GND · GND · LEFT OUT C|3 LEFT OUT (MI) · LEFT OUT D/4 LEFT · OUT · (M3) · RIGHT OUT · E|5 RIGHT OUT (M2) · RIGHT · Out F , 6 RIGHT OUT (M4)
 - **Title block:** (101, 16)–(251, 86) mm: WBS WAAD-BECK BYBTEMs LTD- · M4S 3L · SUB-MASTER · CKD · CONNECTOR REAR VIEW · SCALE · TOLS_ · XX · 46 3-04-024
 
-Every curve, box, word and wire group: [1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW (traced).json](../PINOUTS/1974%20-%20M463L%20-%20463-04-024%20-%20CONNECTOR%20REAR%20VIEW%20(traced).json) (the CAD file: `1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW (traced).json](../PINOUTS/1974%20-%20M463L%20-%20463-04-024%20-%20CONNECTOR%20REAR%20VIEW%20%28traced%29.json) (the CAD file: `1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW (traced).dxf`).
 
 ## Full text
 

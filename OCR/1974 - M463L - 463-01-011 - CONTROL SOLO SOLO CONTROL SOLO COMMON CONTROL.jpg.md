@@ -23,7 +23,7 @@ Wiki page: [M463L](../../../../PAGES/M463L.md)
 - **Title block:** (100, 17)–(250, 88) mm: WBS WAAD-BeCk bybtemb LTD_ · DRN VINJCE · DATE · 60/1 /2 ( · SUBMASTER MODULE · CKD · SCALE · TOLS_ · XX
 - **Wiring (first pass):** 120 connected wire groups from 299 runs; labelled ends: 147 mm → PRE/post, PRE/Post; 134 mm → LTD_, WAAD-BeCk; 114 mm → DIRECT Out, 7m1, PAN, INSERT; 53 mm → SOLO; 50 mm → FB, FB2, PRE/post, 'FOLDBACK
 
-Every curve, box, word and wire group: [1974 - M463L - 463-01-011 - CONTROL SOLO SOLO CONTROL SOLO COMMON CONTROL (traced).json](../SCHEMATICS/1974%20-%20M463L%20-%20463-01-011%20-%20CONTROL%20SOLO%20SOLO%20CONTROL%20SOLO%20COMMON%20CONTROL%20(traced).json) (the CAD file: `1974 - M463L - 463-01-011 - CONTROL SOLO SOLO CONTROL SOLO COMMON CONTROL (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463L - 463-01-011 - CONTROL SOLO SOLO CONTROL SOLO COMMON CONTROL (traced).json](../SCHEMATICS/1974%20-%20M463L%20-%20463-01-011%20-%20CONTROL%20SOLO%20SOLO%20CONTROL%20SOLO%20COMMON%20CONTROL%20%28traced%29.json) (the CAD file: `1974 - M463L - 463-01-011 - CONTROL SOLO SOLO CONTROL SOLO COMMON CONTROL (traced).dxf`).
 
 ## Full text
 
