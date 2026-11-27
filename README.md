@@ -13,6 +13,174 @@ Ward-Beck Systems M463L, 1974|7. Wiki page: [M463L on WBSps.ca](https://wardbeck
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 18 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 80 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [1 topic](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1974 - M463L - P003 - 1-1.jpg](MANUALS/1974%20-%20M463L%20-%20P003%20-%201-1.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** | +18 dB +/ -0.5 dB. (bridging gain) (With fader dB &quot;in-hand&quot; position. |
+| **Frequency response** | 0.25 dB from 20 Hz to 20 kHz. (Equalizer bypass position. |
+| **Noise** | dB below dBm nominal output level 20Hz to 20 kHz) |
+| **Harmonic distortion** | Less than 25% from Hz 20 kHz +28 dBm less Typically less than 0.05% across mos&quot; bandwidth) |
+| **Source impedances** | Summing 30,000 ohms balanced Direct: 600 ohms less balanced |
+| **Input impedances** |  |
+| &nbsp;&nbsp;Summing | Less than Direct: 30,000 ohms ohms |
+| **Output impedance** | Less than 100 ohms (at outputs 8-109A amplifiers only) 8-109F |
+| **Load impedance** | 600 ohms balanced (at insertion point and DIRECT output) |
+| **Output level** | dBm nominal insertion +8 dBm nominal DIRECT output +30 dBm maximum (at outputs 8-109F 8-109A amplifiers only |
+| **Phasing** | Input and outpu terminals designated by numbers are in phase. |
+| **Power requirements** | volts dc, 100 MA nominal 300 MA maximum |
+| **Ambient temperature** | degrees Celsius. |
+| **Dimensions** | wide 14.5&quot; high 6.5&quot; deep (41 mm 360 Mm 165 Mm) |
+| **Weight** | (1150 gms) |
+
+## Circuit description
+
+From [1974 - M463L - Submaster Module (2).pdf](MANUALS/1974%20-%20M463L%20-%20Submaster%20Module%20(2).pdf) pages 4-9 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+M46 3 L SlIB MASTER MODULE
+
+The M463L is a comb in.'l lion SUBMASTE R/ EOUAL1ZER module, deli g ned to accept combined or mixed leeds from previous ly assigned mi &quot; ing
+
+1c han n e l inputs. As maybe required. the un;1 processes the mi &quot; ed signal, eQualize&quot; i t and routes i l to thea p prop r i ate points within the con sole system.
+
+The signal ori gna lin g from Ih e external mixing net worl&lt; i s applied to the edge connector P l. pins 1 and A and &quot; u bseque n t ly coo nec t&quot;, tot hes u mm ing cur ren l nodes oft h e 4 _141 summing ampl ll i er. to fa c il it ll t e -oeevre teSt; n g. a direc l Input Is prolli ded on P l. pins 17 and U.
+
+EOUAL IZE R Se clio n
+
+The output o f the 4 _141 &quot; u mm ing amplifier; 5 roul e d to one oft hen or mall y closed cont a cl, o f the EOUAL I ZER INSERT 5 wl lCh SW13 10 allow bypass ing of the equalizer. Addll ion ally, the 4 _141 output i s fed 10 2 1, Ihe first o f four cascaded summing amplifier, 21 Ih rough
+
+Z I through Z4 &quot; er lle II' mixing and isolation amplifiers. They are used tom i x the primary in P UI signal with a c o r.-ectlon signal d erlv.. d from the outputS oft h.. 4 _ 126 filter n &quot;t wor l&lt;s. re 'u lt lng in raising 0.lo we ring l he level 0 1 s e tee i e e portions oft he audio spectrum. Additionally, they i,o la lethe filter network ' from each other lind preVen lin tera c tion between them, re,ull ing in e eeu e ere and repeatable eQual i zing perfo.-ma n.ce.
+
+The CU T/BOO S T controls R2 1. R2 2 and R23 feed an In -p h ase or OUIOfph llse proportion a l signal 10 the buffer amplifiers Z5.26 and Z8 respective ly. The level o f l he, i g na l fed to lhe buffers Is dep.. n dent 00 the CUT/BOOST control $e !l ing with maximum level occur ring a t ei l her end oft he po len tiome le r, aod a null selling a t the potent iome ter mid -pos i ti on. Full clockwise or full c ou nten;lockw i s e pot &quot;&quot; li o meier selling &quot; will r e ' UI I Int h e maximum e q ulltiza tion o f +15 d Band -15 dB respect i vel y.
+
+The outputs o f buffer amplifiers Z 5, Z6 lind Z8 are !&quot;OUle d 10 th..
+
+4-126 printed Circuit board whleh con l lli n s Ih re e band pa&quot;, fillers
+
+correspond ing 10 each 01 the three sections oft h e equalizer. Each
+
+CIRCUlT DESCRIPTION
+
+ban dp ass filt..... pass.. s only apo...t ion oft hes ' g na l d eliv.. red to it f rem th.. buff.. r, with the c.. nt er frequency and bandwidth deter mined by th.. FRE OUENCY, &quot;0&quot; and PEA K/sHELF controls.
+
+The HIGH FREQUENCY equalization i s continuously adjustable from 1.6 to 25 kHz and i s control l..d by 1'11/1'12.1'12 1 d.. termin.. s the amount of CUT or BOOST. A total range from -15 to +15 dB isp rovid ed. With SWl l depressed the unit will produce a high frequency SHELVING characteristic. When SWll is ret eased, both positive o r negative PEAKING can be obtained. The Q control 1'1 3 is effect i v eon ly with SWl lin the PEA KING mode and covers a c ee cr e rra nge of 2 to 10.
+
+The MID FR EOUE NCY equal iz a ti o n i sad j u s ted by 1'1 4/1'15, cover ing a frequency range from 0.4 to 6.4 kHz. c U T/BOOST i s control led by 1'122.1'16 adjusts the c -rec to-. Positive o r negative bet I -shaped PEA KING equalization i sap p l i cable int h e mid-frequency range.
+
+The LOW FRECl UE NCY equalization operates similarly tot h e high frequency &quot; ec t ion. R?/RS adjusts the frequency range f r-om 25 to 400 H z. CUT or BOOST are con tr-olle&lt;:l by 1'123, C b y 1'1 9 and SW12 determines the choice of either SHELVING o r PEAKING characteristics.
+
+The threes i g na l s which le &quot;ve the 4 _126 filter are &quot;correct ions ign als&quot; e lth erin ~pha s e or 16 0 degrees QUt _of _ph as e with the equalizer input and b andp a&quot; s limited a s determined by the equalizer section and contr-o l &quot; ell ing s. These &quot; c orr ec ti o n &quot;,gnals &quot; a...e then &quot; u mme d together with the p...i mary (in put) s; g n alb y the operational amp l i fie rs 21, 22 and 2 4 thus form ing the eq u.allz eo outputs i g na l.
+
+This con c e p t o fad dIng a correction signal together with the inc om ing signal to form thee qua l i zeds i g n ali s directly responsible forth e low noise and distortion capabilities oft his unit.
+
+T h.. compounds i g na las gen era ted along the entire processing ch.!lin appears a t the output of Z4. From here I t i s rout.. d too n e of then orm ally open contacts 01 the EClUALI ZER INSERTs wItch SW13.
+
+Thus, with SW13 depressed, t h.. equalized signal is fed tot h.. output
+
+:;~~i f:: r a:t~ ~O:t~ d. Ina d d i t ion, a&quot; SW13 is depressed, the LED indi
+
+8-109A OUl p...11 Amplifier and INSERT
+
+The 8-109A amplifier raises I hes, g n a l 10 -10 dBm nominally. The o u l P u l Is ac llvely balanced and fed tot fre &quot;tn s e.. t point &quot; a t p,n s 22 and Z o f mce ure c cone c tc.. P I. This point i s usually connected to II ' no..m&quot;ll e d' set o fIns e &quot; l Jacks, with the OUlp ul side eco eec re e 10 the l u bm &quot;,n e.. fade...
+
+The OUlpul o f Ih e balanced lade.. Is..e lu rned 10 the module via pins 14 and R o f P I. The feed for I h e PREFADE REVERBERATION SEND IRS), Ih e P REF ADE F DL D8 ACK (FBI and the PREFACE PUBliC ADDRESS (PAl channel.. 1$ broug h l OUI a l P I, pi n$ 20 and X and O('lgi...a les nornlall y from l he inputs ide o f l he h de...
+
+An e &gt;&lt;le.....a l s la lei npul Is pl&quot;'Ov lded a l c,,&quot; n ec lo r P2, pins 8 and J. The st e te $lg...a l Is;...j ect e c In place of Ih e reg u la.. signal wh........ el ay KI is ee t tv ete e, Trim POI RU2 serves to cal lbra le Ih estate level.
+
+8 - I 09 F Boos l er AmE.!.!..!.!.!!::
+
+This amplifier o pe.. ales wll h again o f 33 dB. It..ec o ve..s l h e 1!'od B &quot;in hand &quot; Ion In cur..ed b y the fad era n d provides add i lion a l gain 10 produce a noml nll l level o f +8 dBm a t l iS oulp u l.
+
+A DIRECT OUl p ul from l he 8_ 10 91'&quot; amp l Hl...... i$ provided a l conn ecl O&quot; P2, pins 12 and N. Aside from o lh e.. U5e.. wl l hln a given console sys lem, the DIRECT OUl pu l feeds Ihe s u bm as te.. VU me le.. and 5&lt;'!f'VeS a5 tte l ak e-off point for motIllori ng.
+
+~as l e r Ou l Puts and PAN Conlro l
+
+Two left and I wo..; ghl OUIPU IS ere also fed by the 8 -109 F OUIP u l
+
+signal. They are rou led via PAN $ w l tch SWU and PAN &lt;:0&lt;\11&quot;01 R24 10
+
+R2 7, followed b y l our MASTER ASSIGNMENT SWITCHES S W22 10 S\'I25. The
+
+WAR DSEC K SYBTEMB L.TD.
+
+**CIRCUIT OESCR IP TI ON**
+
+ma. ler OUIPUI S are CO....l ecled 10 the approp ri ale module OUlpU I I~ i_...a l. via s u mmi...g e lO&quot;ork re, ls tors 10 b e comb l...ee w lll'l f~s from Oll'ler....bmasle r mi&gt;d g cl'la....... Ie •
+
+Auxiliary O...lp...l.
+
+I... addl liO&lt;'\, a SOL.O OIJIPU I I. available via SWI6, 10 allow setec r tve mO&lt;'\ilo ri...g of Ihe perl ic:u lars u b maS le r channel. Olher feeds o rigi _ n&amp;ling from tt-e 8-109F emp l i fler lire supplied 10 Iha POS TFAOE RS, F B, a...d PAc b e...n el s.
+
+PRE/POST Se le c lo r Sw it cha. and L.a v e l Co r&quot;rol s
+
+PRE/ POST. e lec lion o f Ih e RS, Faa n d P A channels is facilitated by s wl lc hes SW18, SWI9, SW20 lind $ W4 respect iv e l y; each, wl lc his followed by its a s socllll ed level con lro l. The outputs oft h e level controls are fed tot h e $u mm ln g OUlputs via IndIvidual a ssl g n men l switch e • • Following 11'1 10 assign men t, w il che s, Ih e s e OUtpu l S are fed tot heir app rop ria l e mixing bUSeS v lll summing resistors.
+
+Au xl tia ry Control FunC llons
+
+DC control coni llCI S are provided on the SOLO and PA assignment... llches top e rm, ' external mu ti...g and sel ec live con lrol funC lions as maybe required.
+
+Power Supply O&quot;,coup ll...g
+
+An aClive pow&quot;,r supply decoup li...g nelwork c:ol'l$i stlng of 01 Ih rough 06 provides a high degree of Isolalion between Ih a &quot;&quot;'631.. and Ih e +/-25 v o l! supply rail '. TheIr a n s lSl 0r5 05 and 06 serve as Ihe cu.....,...1 monitors and wll l Iimi l Ih e e....... ent flo.. ing th rcu g h the pa.&quot; Iran s ls tors OJ a...d 04 int he even l Ih a l excessive power supply demands. h ou l d arise a. a result of compone&quot;' l failure,
+
+**FREOUENCY RESPONSE CHARACTERISTICS**
+
+LOW FREQUENCY section Hod e: SHELVING.
+
+US se.
+
+CUT/B OOST: -e
+
+FREQUENtT: 2 5 &amp; 400 Hz.
+
+**III III**
+
+VI y 1'----'
+
+\ III LOW FREQUENCY section -.,I I 1:
+
+xeee:
+
+PEAKING.
+
+CUT/ BOOST: tIS ea. -e jf
+
+FREQUErttY: 2S &amp; 400 Hz.
+
+**I'I ! I**
+
+Q: 2.
+
+-&quot;:10'&quot;,~ &quot;It-fO&gt;.
+
+**FREOUENCY RESPONSE CHARACTERISTICS**
+
+MID FREQUENCY section CUT/B OOST: tI Ssa.
+
+FREQUENCY: 0.4 &amp; 6.4 kHz.
+
+Q: Z.
+
+HID FREQUENCY section BOOST: +3 to +15 dB, in 3 dB steps. Q: 2.
+
+FREQUENCY: 1 kHz.
+
+CUT: -6 &amp; -15 dB. Q: 10.
+
+FREQUENCY: 2 kHz. -&quot;'&quot;HI
+
+</details>
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._
