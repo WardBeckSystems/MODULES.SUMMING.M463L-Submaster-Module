@@ -1,0 +1,27 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "1974 - M463L - 461-03-015 - COMPONENT SIDF NOTES LEGEND CONNECTOR PIN MOUNTED.jpg",
+  "module": "M463L",
+  "applies_to": [
+    "M463L"
+  ],
+  "pinout": false,
+  "drawing": {
+    "number": null,
+    "title": "COMPONENT SIDE (layout, title block not on picture)",
+    "date": null,
+    "issue": null,
+    "drawn": null
+  },
+  "connectors": [],
+  "pins": [],
+  "ports": [],
+  "inserts": [],
+  "straps": [],
+  "unread": [
+    "title block and right part of the board cut off",
+    "drawing number not on the picture ('461-03-015' in the file name is the stand-off part number in note 1, not the drawing)"
+  ],
+  "confidence": "high",
+  "notes": "Not a pinout: PCB component-side assembly layout (K1 V23030-A2021-A104 relay, TIP30B/TIP29B on heat sink A460-03-014, SW11-SW14, SW19-SW25 wiring pads, Z1-Z4). Edge connector P2 is drawn with only its end letters Z and A, no pin labels. Notes: 1 LEGEND - connector pin mounted on solder side / stand off (No 461-03-015) mounted on pin / pad provided for wiring; 2 USE PCB No 4-136; 3 ALL IC's LM201 N."
+}

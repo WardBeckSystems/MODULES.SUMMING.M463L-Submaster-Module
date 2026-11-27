@@ -3,230 +3,803 @@
  "connector": "RTO-144",
  "type": "M463L - Submaster Module",
  "series": null,
- "contacts": "7 contacts (P1), 22 contacts (P2)",
- "verified": null,
- "derived": false,
- "variant_of": null,
- "pins": [
+ "connectors": [
   {
-   "pin": "1",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - Submaster Module (2).pdf",
-   "page": 43
-  },
-  {
-   "pin": "2",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - Submaster Module (2).pdf",
-   "page": 43
-  },
-  {
-   "pin": "4",
-   "signal": "OUTPUTS",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463L/SCHEMATICS/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
-   "page": 1
-  },
-  {
-   "pin": "6",
-   "signal": "OUTPUTS",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463L/SCHEMATICS/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
-   "page": 1
-  },
-  {
-   "pin": "7",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463L/SCHEMATICS/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
-   "page": 1
-  },
-  {
-   "pin": "8",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - P042 - LB463-02-011 004.jpg",
-   "page": 1
-  },
-  {
-   "pin": "12",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463L/SCHEMATICS/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
-   "page": 1
-  },
-  {
-   "pin": "18",
-   "signal": "CTL COM",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463L/SCHEMATICS/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
-   "page": 1
-  },
-  {
-   "pin": "19",
-   "signal": "-25V",
-   "kind": "power",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - Submaster Module.pdf",
-   "page": 43
-  },
-  {
-   "pin": "20",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - P042 - LB463-02-011 001.jpg",
-   "page": 1
-  },
-  {
-   "pin": "21",
-   "signal": "+25V",
-   "kind": "power",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - Submaster Module.pdf",
-   "page": 43
-  },
-  {
-   "pin": "22",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - P042 - LB463-02-011 001.jpg",
-   "page": 1
-  },
-  {
-   "pin": "C",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463L/SCHEMATICS/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
-   "page": 1
-  },
-  {
-   "pin": "D",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463L/SCHEMATICS/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
-   "page": 1
-  },
-  {
-   "pin": "F",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463L/SCHEMATICS/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
-   "page": 1
-  },
-  {
-   "pin": "N",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463L/SCHEMATICS/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
-   "page": 1
-  },
-  {
-   "pin": "T",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463L/SCHEMATICS/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
-   "page": 1
-  },
-  {
-   "pin": "V",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463L/SCHEMATICS/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
-   "page": 1
-  },
-  {
-   "pin": "Y",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - P042 - LB463-02-011 003.jpg",
-   "page": 1
+   "name": "P2",
+   "kind": "edge",
+   "contacts": 44,
+   "rows": "A-Z (no G, I, O, Q) opposite 1-22",
+   "view": "rear",
+   "part": null
   }
  ],
+ "verified": null,
+ "built_from": {
+  "pictures": [
+   "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+  ],
+  "sheet": "Engineering/RTO-144/M463L/M463L.rto144.json",
+  "sheet_agrees": null
+ },
+ "pins": [
+  {
+   "connector": "P2",
+   "pin": "1",
+   "ref": "1",
+   "also": null,
+   "same_row": null,
+   "signal": "INTERNAL CONNECTION",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "2",
+   "ref": "2",
+   "also": null,
+   "same_row": null,
+   "signal": "GROUND",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "3",
+   "ref": "3",
+   "also": null,
+   "same_row": null,
+   "signal": "LEFT 1 OUT",
+   "kind": "out",
+   "port": "LEFT 1 OUT",
+   "polarity": "L",
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "4",
+   "ref": "4",
+   "also": null,
+   "same_row": null,
+   "signal": "LEFT 2 OUT",
+   "kind": "out",
+   "port": "LEFT 2 OUT",
+   "polarity": "L",
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "5",
+   "ref": "5",
+   "also": null,
+   "same_row": null,
+   "signal": "RIGHT 1 OUT",
+   "kind": "out",
+   "port": "RIGHT 1 OUT",
+   "polarity": "R",
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "6",
+   "ref": "6",
+   "also": null,
+   "same_row": null,
+   "signal": "RIGHT 2 OUT",
+   "kind": "out",
+   "port": "RIGHT 2 OUT",
+   "polarity": "R",
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "7",
+   "ref": "7",
+   "also": null,
+   "same_row": null,
+   "signal": "GROUND",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "8",
+   "ref": "8",
+   "also": null,
+   "same_row": null,
+   "signal": "SLATE IN",
+   "kind": "in",
+   "port": "SLATE IN",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "9",
+   "ref": "9",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "10",
+   "ref": "10",
+   "also": null,
+   "same_row": null,
+   "signal": "INTERNAL CONNECTION",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "11",
+   "ref": "11",
+   "also": null,
+   "same_row": null,
+   "signal": "INTERNAL CONNECTION",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "12",
+   "ref": "12",
+   "also": null,
+   "same_row": null,
+   "signal": "DIRECT OUTPUT",
+   "kind": "out",
+   "port": "DIRECT OUTPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "13",
+   "ref": "13",
+   "also": null,
+   "same_row": null,
+   "signal": "INTERNAL CONNECTION",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "14",
+   "ref": "14",
+   "also": null,
+   "same_row": null,
+   "signal": "INTERNAL CONNECTION",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "15",
+   "ref": "15",
+   "also": null,
+   "same_row": null,
+   "signal": "SLATE CONTROL",
+   "kind": "control_in",
+   "port": "SLATE CONTROL",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "16",
+   "ref": "16",
+   "also": null,
+   "same_row": null,
+   "signal": "INTERNAL CONNECTION",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "17",
+   "ref": "17",
+   "also": null,
+   "same_row": null,
+   "signal": "INTERNAL CONNECTION",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "18",
+   "ref": "18",
+   "also": null,
+   "same_row": null,
+   "signal": "CONTROL COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "19",
+   "ref": "19",
+   "also": null,
+   "same_row": null,
+   "signal": "-25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "20",
+   "ref": "20",
+   "also": null,
+   "same_row": null,
+   "signal": "25 V COM",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "21",
+   "ref": "21",
+   "also": null,
+   "same_row": null,
+   "signal": "+25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "22",
+   "ref": "22",
+   "also": null,
+   "same_row": null,
+   "signal": "CHASSIS",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "A",
+   "ref": "A",
+   "also": null,
+   "same_row": null,
+   "signal": "INTERNAL CONNECTION",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "B",
+   "ref": "B",
+   "also": null,
+   "same_row": null,
+   "signal": "GROUND",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "C",
+   "ref": "C",
+   "also": null,
+   "same_row": null,
+   "signal": "LEFT 1 OUT",
+   "kind": "out",
+   "port": "LEFT 1 OUT",
+   "polarity": "L",
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "D",
+   "ref": "D",
+   "also": null,
+   "same_row": null,
+   "signal": "LEFT 2 OUT",
+   "kind": "out",
+   "port": "LEFT 2 OUT",
+   "polarity": "L",
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "E",
+   "ref": "E",
+   "also": null,
+   "same_row": null,
+   "signal": "RIGHT 1 OUT",
+   "kind": "out",
+   "port": "RIGHT 1 OUT",
+   "polarity": "R",
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "F",
+   "ref": "F",
+   "also": null,
+   "same_row": null,
+   "signal": "RIGHT 2 OUT",
+   "kind": "out",
+   "port": "RIGHT 2 OUT",
+   "polarity": "R",
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "H",
+   "ref": "H",
+   "also": null,
+   "same_row": null,
+   "signal": "GROUND",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "J",
+   "ref": "J",
+   "also": null,
+   "same_row": null,
+   "signal": "SLATE IN",
+   "kind": "in",
+   "port": "SLATE IN",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "K",
+   "ref": "K",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "L",
+   "ref": "L",
+   "also": null,
+   "same_row": null,
+   "signal": "INTERNAL CONNECTION",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "M",
+   "ref": "M",
+   "also": null,
+   "same_row": null,
+   "signal": "INTERNAL CONNECTION",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "N",
+   "ref": "N",
+   "also": null,
+   "same_row": null,
+   "signal": "DIRECT OUTPUT",
+   "kind": "out",
+   "port": "DIRECT OUTPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "P",
+   "ref": "P",
+   "also": null,
+   "same_row": null,
+   "signal": "INTERNAL CONNECTION",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "R",
+   "ref": "R",
+   "also": null,
+   "same_row": null,
+   "signal": "INTERNAL CONNECTION",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "S",
+   "ref": "S",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "T",
+   "ref": "T",
+   "also": null,
+   "same_row": null,
+   "signal": "PA CONTROL",
+   "kind": "control_in",
+   "port": "PA CONTROL",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "U",
+   "ref": "U",
+   "also": null,
+   "same_row": null,
+   "signal": "INTERNAL CONNECTION",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "V",
+   "ref": "V",
+   "also": null,
+   "same_row": null,
+   "signal": "SOLO CONTROL",
+   "kind": "control_in",
+   "port": "SOLO CONTROL",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "W",
+   "ref": "W",
+   "also": null,
+   "same_row": null,
+   "signal": "INTERNAL CONNECTION",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "X",
+   "ref": "X",
+   "also": null,
+   "same_row": null,
+   "signal": "INTERNAL CONNECTION",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "Y",
+   "ref": "Y",
+   "also": null,
+   "same_row": null,
+   "signal": "+24 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "Z",
+   "ref": "Z",
+   "also": null,
+   "same_row": null,
+   "signal": "INTERNAL CONNECTION",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463L/PINOUTS/1974 - M463L - 463-04-024 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  }
+ ],
+ "ports": [
+  {
+   "name": "LEFT 1 OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P2-3",
+    "b": "P2-C"
+   }
+  },
+  {
+   "name": "LEFT 2 OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P2-4",
+    "b": "P2-D"
+   }
+  },
+  {
+   "name": "RIGHT 1 OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P2-5",
+    "b": "P2-E"
+   }
+  },
+  {
+   "name": "RIGHT 2 OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P2-6",
+    "b": "P2-F"
+   }
+  },
+  {
+   "name": "DIRECT OUTPUT",
+   "dir": "out",
+   "pins": {
+    "a": "P2-12",
+    "b": "P2-N"
+   }
+  },
+  {
+   "name": "SLATE IN",
+   "dir": "in",
+   "pins": {
+    "a": "P2-8",
+    "b": "P2-J"
+   }
+  },
+  {
+   "name": "SLATE CONTROL",
+   "dir": "control_in",
+   "pins": {
+    "+": "P2-15"
+   }
+  },
+  {
+   "name": "PA CONTROL",
+   "dir": "control_in",
+   "pins": {
+    "+": "P2-T"
+   }
+  },
+  {
+   "name": "SOLO CONTROL",
+   "dir": "control_in",
+   "pins": {
+    "+": "P2-V"
+   }
+  }
+ ],
+ "inserts": [],
  "straps": [],
- "power": [],
- "sources": [
-  "Engineering/RTO-144/M463L/M463L.rto144.json",
-  "Modules/SUMMING/M463L/MANUALS/1974 - M463L - P042 - LB463-02-011 001.jpg",
-  "Modules/SUMMING/M463L/MANUALS/1974 - M463L - P042 - LB463-02-011 003.jpg",
-  "Modules/SUMMING/M463L/MANUALS/1974 - M463L - P042 - LB463-02-011 004.jpg",
-  "Modules/SUMMING/M463L/MANUALS/1974 - M463L - Submaster Module (2).pdf",
-  "Modules/SUMMING/M463L/MANUALS/1974 - M463L - Submaster Module.pdf",
-  "Modules/SUMMING/M463L/SCHEMATICS/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg"
- ]
+ "conflicts": [],
+ "to_check": []
 }

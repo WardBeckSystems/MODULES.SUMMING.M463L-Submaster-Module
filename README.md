@@ -227,29 +227,54 @@ Not on Google Drive yet: `M463L - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
-7 contacts (P1), 22 contacts (P2). Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 1 pinout picture (each its own `.pinout.json` beside it). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 1 |  | unread |  | low |
-| 2 |  | unread |  | low |
-| 4 | OUTPUTS | out |  | low |
-| 6 | OUTPUTS | out |  | low |
-| 7 |  | unread |  | low |
-| 8 |  | unread |  | low |
-| 12 |  | unread |  | low |
-| 18 | CTL COM | ground |  | low |
-| 19 | -25V | power |  | low |
-| 20 |  | unread |  | low |
-| 21 | +25V | power |  | low |
-| 22 |  | unread |  | low |
-| C |  | unread |  | low |
-| D |  | unread |  | low |
-| F |  | unread |  | low |
-| N |  | unread |  | low |
-| T |  | unread |  | low |
-| V |  | unread |  | low |
-| Y |  | unread |  | low |
+| 1 | INTERNAL CONNECTION | other |  | high |
+| 2 | GROUND | ground |  | high |
+| 3 | LEFT 1 OUT | out | LEFT 1 OUT L | high |
+| 4 | LEFT 2 OUT | out | LEFT 2 OUT L | high |
+| 5 | RIGHT 1 OUT | out | RIGHT 1 OUT R | high |
+| 6 | RIGHT 2 OUT | out | RIGHT 2 OUT R | high |
+| 7 | GROUND | ground |  | high |
+| 8 | SLATE IN | in | SLATE IN | high |
+| 9 | N/C | nc |  | high |
+| 10 | INTERNAL CONNECTION | other |  | high |
+| 11 | INTERNAL CONNECTION | other |  | high |
+| 12 | DIRECT OUTPUT | out | DIRECT OUTPUT | high |
+| 13 | INTERNAL CONNECTION | other |  | high |
+| 14 | INTERNAL CONNECTION | other |  | high |
+| 15 | SLATE CONTROL | control_in | SLATE CONTROL | high |
+| 16 | INTERNAL CONNECTION | other |  | high |
+| 17 | INTERNAL CONNECTION | other |  | high |
+| 18 | CONTROL COMMON | ground |  | high |
+| 19 | -25 V | power |  | high |
+| 20 | 25 V COM | ground |  | high |
+| 21 | +25 V | power |  | high |
+| 22 | CHASSIS | ground |  | high |
+| A | INTERNAL CONNECTION | other |  | high |
+| B | GROUND | ground |  | high |
+| C | LEFT 1 OUT | out | LEFT 1 OUT L | high |
+| D | LEFT 2 OUT | out | LEFT 2 OUT L | high |
+| E | RIGHT 1 OUT | out | RIGHT 1 OUT R | high |
+| F | RIGHT 2 OUT | out | RIGHT 2 OUT R | high |
+| H | GROUND | ground |  | high |
+| J | SLATE IN | in | SLATE IN | high |
+| K | N/C | nc |  | high |
+| L | INTERNAL CONNECTION | other |  | high |
+| M | INTERNAL CONNECTION | other |  | high |
+| N | DIRECT OUTPUT | out | DIRECT OUTPUT | high |
+| P | INTERNAL CONNECTION | other |  | high |
+| R | INTERNAL CONNECTION | other |  | high |
+| S | N/C | nc |  | high |
+| T | PA CONTROL | control_in | PA CONTROL | high |
+| U | INTERNAL CONNECTION | other |  | high |
+| V | SOLO CONTROL | control_in | SOLO CONTROL | high |
+| W | INTERNAL CONNECTION | other |  | high |
+| X | INTERNAL CONNECTION | other |  | high |
+| Y | +24 V | power |  | high |
+| Z | INTERNAL CONNECTION | other |  | high |
 
 ## Manuals and documents
 
