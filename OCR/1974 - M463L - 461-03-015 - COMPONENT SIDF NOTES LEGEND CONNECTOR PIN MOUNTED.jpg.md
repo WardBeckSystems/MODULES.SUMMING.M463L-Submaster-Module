@@ -1,5 +1,5 @@
 # 1974 - M463L - 461-03-015 - COMPONENT SIDF NOTES LEGEND CONNECTOR PIN MOUNTED.jpg
-Wiki page: [M463L](../../../../PAGES/M463L.md)
+Wiki page: [M463L](../)
 
 
 - **Year:** 1974 (module estimate (labelled))

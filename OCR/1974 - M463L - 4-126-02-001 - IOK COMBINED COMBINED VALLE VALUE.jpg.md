@@ -1,5 +1,5 @@
 # 1974 - M463L - 4-126-02-001 - IOK COMBINED COMBINED VALLE VALUE.jpg
-Wiki page: [M463L](../../../../PAGES/M463L.md)
+Wiki page: [M463L](../)
 
 
 - **Year:** 1974 (module estimate (labelled))

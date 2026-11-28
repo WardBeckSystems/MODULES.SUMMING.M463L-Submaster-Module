@@ -1,5 +1,5 @@
 # 1974 - M463L - 4-141-02-001 - TORY SELECTED JAL VALE.jpg
-Wiki page: [M463L](../../../../PAGES/M463L.md)
+Wiki page: [M463L](../)
 
 
 - **Year:** 1974 (found in this file: "DATE NOV 74")

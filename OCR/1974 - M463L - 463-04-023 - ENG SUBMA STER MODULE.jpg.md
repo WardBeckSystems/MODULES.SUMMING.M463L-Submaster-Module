@@ -1,5 +1,5 @@
 # 1974 - M463L - 463-04-023 - ENG SUBMA STER MODULE.jpg
-Wiki page: [M463L](../../../../PAGES/M463L.md)
+Wiki page: [M463L](../)
 
 
 - **Year:** 1974 (module estimate (labelled))

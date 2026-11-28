@@ -1,5 +1,5 @@
 # 1974 - M463L - Submaster Module (2).pdf
-Wiki page: [M463L](../../../../PAGES/M463L.md)
+Wiki page: [M463L](../)
 
 
 - **Year:** 1974 (found in this file: "DATE NOV 74")
